@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Git is the gigabanger of programming lets gooo</h1>;
+  return <h1>Im the god of the git LESGGOOO</h1>;
 }
 
 export default Home;
